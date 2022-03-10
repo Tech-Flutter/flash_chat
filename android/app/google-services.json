@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849467183268",
+    "project_id": "flash-chats-af6c0",
+    "storage_bucket": "flash-chats-af6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849467183268:android:df9140f05078dcbc0d9631",
+        "android_client_info": {
+          "package_name": "com.zeal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849467183268-ird7m27ci60t5ienq9t2gktv4pd3igc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwMD4COKeaZ4rA5F89ceYP1MXsTkYoBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849467183268-ird7m27ci60t5ienq9t2gktv4pd3igc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
